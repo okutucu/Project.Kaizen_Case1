@@ -80,7 +80,8 @@ Son olarak üretilen kodlara sahip müşteriler kodlarını sorgulayabilecektir.
 
 
 
-
+PROJE ÇALIŞTIRILMASI : appsettings.json dosyasında =>  "MsSqlConnection": "Server=****;Database=CodeDb;Trusted_Connection=True;" kendi connection bağlantınızı 
+verdikten sonra, Console Package Manager'dan migration oluşturup dbyi kurmanız gerekmektedir.
 
 PROJEDE KULLANILAN KÜTÜPHANELER : 
 
