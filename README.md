@@ -6,7 +6,7 @@ Proje Adımları:
 • Kodlar ACDEFGHKLMNPRTXYZ234579 karakter kümesini içermelidir. <br /> 
 • Kolayca tahmin edilememesi için ardışık sıralı üretim yapılmamalıdır. <br /> 
 
-Kısaltmalarını tanımlamadan önce ileride bu isteklerin değişebilme durumunu göz önünde bulunarak bu değerleri yöneticilerin girdiği değerler ile yürütmeyi amaçladım.
+Kısıtlamaları tanımlamadan önce ileride bu isteklerin değişebilme durumunu göz önünde bulunarak bu değerleri yöneticilerin girdiği değerler ile yürütmeyi amaçladım.
 Projeye ilk olarak "MSSQL" serverde stored prosedür yazarak sql tarafında kodun çalışıp çalışmadığını kontrol ettim.
 
 İlk olarak sp_Generate_Code prosedürünü yazdım.
